@@ -1,0 +1,14 @@
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\bin\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.deps.json
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\bin\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\bin\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.pdb
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\bin\Debug\netcoreapp2.2\HospitalManagement.DataLayer.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\bin\Debug\netcoreapp2.2\HospitalManagement.Entities.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\bin\Debug\netcoreapp2.2\HospitalManagement.DataLayer.pdb
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\bin\Debug\netcoreapp2.2\HospitalManagement.Entities.pdb
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\obj\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.csprojAssemblyReference.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\obj\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\obj\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.AssemblyInfoInputs.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\obj\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.AssemblyInfo.cs
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\obj\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.csproj.CopyComplete
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\obj\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.Businesslayer\obj\Debug\netcoreapp2.2\HospitalManagement.Businesslayer.pdb

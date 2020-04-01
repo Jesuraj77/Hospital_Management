@@ -1,0 +1,9 @@
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\bin\Debug\netcoreapp2.2\HospitalManagement.Entities.deps.json
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\bin\Debug\netcoreapp2.2\HospitalManagement.Entities.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\bin\Debug\netcoreapp2.2\HospitalManagement.Entities.pdb
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\obj\Debug\netcoreapp2.2\HospitalManagement.Entities.csprojAssemblyReference.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\obj\Debug\netcoreapp2.2\HospitalManagement.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\obj\Debug\netcoreapp2.2\HospitalManagement.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\obj\Debug\netcoreapp2.2\HospitalManagement.Entities.AssemblyInfo.cs
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\obj\Debug\netcoreapp2.2\HospitalManagement.Entities.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.Entities\obj\Debug\netcoreapp2.2\HospitalManagement.Entities.pdb

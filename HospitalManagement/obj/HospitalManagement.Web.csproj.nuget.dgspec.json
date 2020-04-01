@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Shilpa\\HospitalManagement\\HospitalManagement\\HospitalManagement.Web.csproj": {}
+  },
+  "projects": {
+    "E:\\Shilpa\\HospitalManagement\\HospitalManagement.DataLayer\\HospitalManagement.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.DataLayer\\HospitalManagement.DataLayer.csproj",
+        "projectName": "HospitalManagement.DataLayer",
+        "projectPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.DataLayer\\HospitalManagement.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\SHINE\\.nuget\\packages\\",
+        "outputPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHINE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Shilpa\\HospitalManagement\\HospitalManagement.Entities\\HospitalManagement.Entities.csproj": {
+                "projectPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.Entities\\HospitalManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Shilpa\\HospitalManagement\\HospitalManagement.Entities\\HospitalManagement.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.Entities\\HospitalManagement.Entities.csproj",
+        "projectName": "HospitalManagement.Entities",
+        "projectPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.Entities\\HospitalManagement.Entities.csproj",
+        "packagesPath": "C:\\Users\\SHINE\\.nuget\\packages\\",
+        "outputPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHINE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Shilpa\\HospitalManagement\\HospitalManagement\\HospitalManagement.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Shilpa\\HospitalManagement\\HospitalManagement\\HospitalManagement.Web.csproj",
+        "projectName": "HospitalManagement.Web",
+        "projectPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement\\HospitalManagement.Web.csproj",
+        "packagesPath": "C:\\Users\\SHINE\\.nuget\\packages\\",
+        "outputPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHINE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Shilpa\\HospitalManagement\\HospitalManagement.DataLayer\\HospitalManagement.DataLayer.csproj": {
+                "projectPath": "E:\\Shilpa\\HospitalManagement\\HospitalManagement.DataLayer\\HospitalManagement.DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

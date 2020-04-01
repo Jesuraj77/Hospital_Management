@@ -1,0 +1,12 @@
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\bin\Debug\netcoreapp2.2\HospitalManagement.DataLayer.deps.json
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\bin\Debug\netcoreapp2.2\HospitalManagement.DataLayer.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\bin\Debug\netcoreapp2.2\HospitalManagement.DataLayer.pdb
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\bin\Debug\netcoreapp2.2\HospitalManagement.Entities.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\bin\Debug\netcoreapp2.2\HospitalManagement.Entities.pdb
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\obj\Debug\netcoreapp2.2\HospitalManagement.DataLayer.csprojAssemblyReference.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\obj\Debug\netcoreapp2.2\HospitalManagement.DataLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\obj\Debug\netcoreapp2.2\HospitalManagement.DataLayer.AssemblyInfoInputs.cache
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\obj\Debug\netcoreapp2.2\HospitalManagement.DataLayer.AssemblyInfo.cs
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\obj\Debug\netcoreapp2.2\HospitalManagement.DataLayer.csproj.CopyComplete
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\obj\Debug\netcoreapp2.2\HospitalManagement.DataLayer.dll
+E:\Shilpa\HospitalManagement\HospitalManagement.DataLayer\obj\Debug\netcoreapp2.2\HospitalManagement.DataLayer.pdb
